@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularcrud-4120d": {
+      "hosting": {
+        "angularfirestorecrud": [
+          "angularcrud-4120d"
+        ]
+      }
+    }
+  }
+}
